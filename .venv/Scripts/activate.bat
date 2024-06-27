@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\curso_programacao\python_bd\.venv
+=======
+set VIRTUAL_ENV=C:\curso_programação\python_bd\.venv
+>>>>>>> 160ac8fb04cc6629529e22fef3a9a759d4e1927d
 
 if not defined PROMPT set PROMPT=$P$G
 
