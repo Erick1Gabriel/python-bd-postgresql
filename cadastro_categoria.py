@@ -60,6 +60,7 @@ def menu_categoria(opcao):
         elif opcao == "4":
            deletar(conexao)
         elif opcao == "5":
+    
             break
         else:
             print("Opção invalida, tente novamente")
