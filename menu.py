@@ -28,8 +28,9 @@ def menu_principal(admin):
     print("|     1 - Categoria              |")
     print("|     2 - Produto                |")
     print("|     3 - Cliente                |")
-    print("|     4 - Vendas                 |")
-    print("|     5 - Sair do Sistema        |")
+    print("|     4 - Usuario                |")
+    print("|     5 - Vendas                 |")
+    print("|     6 - Sair do Sistema        |")
     print("|--------------------------------|")
 
     while True:
